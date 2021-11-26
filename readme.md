@@ -42,6 +42,14 @@ You may wish to convert back to binary STL files before
 uploading to shapeways for 3D printing since binary files
 are much smaller.
 
+Screenshot
+==========
+
+Here is a screenshot showing the sampled model on the left
+and the original on the right.
+
+![alt text](screenshot.jpg?raw=true "Sampled Model Comparison")
+
 License
 =======
 
